@@ -1,6 +1,11 @@
 import { assert } from "chai";
 import { Factorial } from "../src/factorial";
 
+/*  GROUP 1
+ Jansuk Emmanuel Abbas
+ Zainab Tegulwa
+*/
+
 describe('Testing For Factorials', () => {
     it('Testing the factorial of 2', () => {
         let factorial = new Factorial()

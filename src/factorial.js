@@ -1,3 +1,8 @@
+/*  GROUP 1
+ Jansuk Emmanuel Abbas
+ Zainab Tegulwa
+*/
+
 export class Factorial {
     getFactorialOf(number) {
         let testNumber = number;
